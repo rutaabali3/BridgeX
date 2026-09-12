@@ -50,6 +50,11 @@ The core development and maintenance team behind BridgeX:
 5. **Make Your Changes**
    Implement your changes, adhering to our code style guidelines detailed below.
 
+   For documentation-only changes, use the `docs/` prefix, for example:
+   ```bash
+   git checkout -b docs/update-contributing-guide
+   ```
+
 6. **Test Your Changes**
    Verify all pages load correctly across various screen sizes (desktop, tablet, mobile) and ensure interactive components (menus, forms, modal dialogs) function as expected.
 
