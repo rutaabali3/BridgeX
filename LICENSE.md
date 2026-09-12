@@ -1,6 +1,8 @@
+SPDX-License-Identifier: MIT
+
 # MIT License
 
-Copyright (c) 2025-2026 BridgeX
+Copyright (c) 2025-2026 Muhammad Rutaab Ali and BridgeX contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
