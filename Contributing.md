@@ -67,6 +67,8 @@ The core development and maintenance team behind BridgeX:
 9. **Open a Pull Request**
    Navigate to the original repository and click **New Pull Request**. Provide a detailed summary of the changes made and link any relevant issue numbers.
 
+Before submitting your pull request, confirm that the description explains what changed, relevant checks have been completed, and screenshots are included when the change affects the user interface.
+
 ---
 
 ## Branch Naming Conventions
